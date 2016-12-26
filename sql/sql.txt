@@ -1,0 +1,6 @@
+
+[select]
+SELECT `id`, `pod`, `rack`, `drawer`, `ip_addr`, `created_at`, `updated_at`, `deleted_at`, `deleted` FROM `tmc` WHERE  `id`=1;
+
+[update]
+UPDATE `tmc` SET `deleted`=0 WHERE  `id`=1;
