@@ -1,0 +1,4 @@
+severity : warning 
+severity : error 
+ [*] Waiting for logs. To exit press CTRL+C
+ [x] 'error':'error test rabbit'
